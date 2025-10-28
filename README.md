@@ -1,12 +1,29 @@
 <h1 align="center">👋 Hi, I'm Barabu Oscar Edem</h1>
 <h3 align="center">🧠 Full-Stack, Mobile & Machine Learning Engineer | Systems & Architecture Enthusiast</h3>
+<h3 align="center">A passionate software developer from Ghana</h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=oscaredem&label=Profile%20views&color=0e75b6&style=flat" alt="oscaredem" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oscaredem" alt="oscaredem" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/oscar_edem99095" target="blank">
+    <img src="https://img.shields.io/twitter/follow/oscar_edem99095?logo=twitter&style=for-the-badge" alt="oscar_edem99095" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-I’m a multidisciplinary software engineer who builds **scalable, data-driven systems** that bridge mobile, backend, and machine learning domains.  
-My work combines **architectural precision**, **modern frameworks**, and **clean, maintainable code** — from cross-platform UIs to intelligent backend services.
+I’m a multidisciplinary engineer who builds **scalable, data-driven systems** that bridge **mobile**, **backend**, and **machine learning**.  
+My work blends **architectural precision**, **modern frameworks**, and **clean, maintainable code** — from **cross-platform apps** to **intelligent backend services**.
 
 ---
 
@@ -54,47 +71,66 @@ I believe in:
 
 ### 💼 Current Focus
 
-🔭 **Building:** A mobile-first classified app ecosystem powered by React Native, Rust APIs, and ML-driven personalization.  
-👯 **Collaborating On:** Open-source tools around **mobile performance**, **ML integration**, and **Rust backend systems**.  
-🤝 **Looking For:** Engineers passionate about **data-intensive apps** and **real-time architectures**.
+🔭 **Building:** A cross-platform mobile + backend ecosystem powered by React Native, Rust, and ML-driven APIs.  
+👯 **Collaborating On:** Open-source tools around **mobile performance**, **Rust backend systems**, and **AI/ML infrastructure**.  
+🤝 **Looking For:** Engineers passionate about **data-intensive apps** and **real-time architecture**.
 
 ---
 
-### 🌱 Learning & Exploring
+### 🌱 Exploring
 
-- Advanced concurrency and async runtimes in **Rust**
-- **Edge ML** and inference optimization
-- **Flutter + Rust bridges** for high-performance mobile systems
-- **Type-safe API contracts** and cross-platform code reuse
+- Concurrency & async runtimes in **Rust**  
+- **Edge ML inference** and model optimization  
+- **Flutter + Rust bridges** for native performance  
+- **Type-safe API contracts** for cross-platform ecosystems  
 
 ---
 
 ### 💬 Ask Me About
-- Full-stack architecture for mobile-first systems  
-- Integrating ML into production backends  
-- Performance tuning in React Native or Flutter  
-- System design and maintainable abstractions  
+- Architecting full-stack mobile systems  
+- Building and deploying ML-driven backends  
+- React Native, Flutter, TypeScript performance tuning  
+- Clean code, scalability, and systems design  
 
 ---
 
-### 📫 Contact
+### 📫 Contact Me
 
 📧 **Email:** [eddiereoscar@gmail.com](mailto:eddiereoscar@gmail.com)  
-🌐 **Portfolio:** [YourPortfolioLinkHere](#)  
-📝 **Blog:** [YourBlogLinkHere](#)  
-📄 **Resume:** [YourResumeLinkHere](#)
+🐦 **Twitter:** [@oscar_edem99095](https://twitter.com/oscar_edem99095)  
+💼 **LinkedIn:** [Barabu Oscar Edem](https://linkedin.com/in/barabu-oscar-edem)  
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscaredem&show_icons=true&locale=en&layout=compact" alt="oscaredem" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&locale=en" alt="oscaredem" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oscaredem&" alt="oscaredem" />
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-
 > I treat architecture diagrams like sketches — they’re how I think, not just what I present.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="Oscar's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical" alt="Oscar's GitHub streak" />
-</p>
