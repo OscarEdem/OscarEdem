@@ -147,7 +147,7 @@ Open to: Staff engineering roles, technical co-founder opportunities, and consul
 
   <!-- Most Used Languages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-oscaredem.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
   <!-- Contribution Streak -->
   <br/>
