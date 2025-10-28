@@ -1,144 +1,149 @@
-# 👋 Hi — I'm **Barabu Oscar Edem**
+<div align="center">
+  <h1>👋 Hi — I'm <strong>Barabu Oscar Edem</strong></h1>
+  <h3>Full-Stack · Mobile · Machine Learning — Systems & Architecture Engineer</h3>
 
-### Full-Stack · Mobile · Machine Learning — Systems & Architecture Engineer
+  <!-- Quick badges (subtle color accents) -->
 
-I design and build performant, maintainable systems that span **mobile clients**, **high-throughput backends**, and **ML-driven features**. I focus on pragmatic architecture, measurable outcomes, and production-grade engineering: clean abstractions, robust observability, and automated delivery.
+  <p>
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
 
----
-
-<!-- Quick badges -->
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+  <p align="center">📫 <strong>eddiereoscar@gmail.com</strong> — <a href="#contact">Get in touch</a></p>
+</div>
 
 ---
 
-## TL;DR
-- Senior engineer building cross-platform applications and production ML pipelines.  
-- Stack highlights: **React Native + TypeScript**, **Flutter (Dart)**, **Rust (Actix/Axum)**, **Python (FastAPI)**, **ML model production**.  
-- Architecture focus: modular monolith → microservices, event-driven components, type-safe API contracts, CI/CD, and observability.
+## About — what I build
+
+I design and ship **production-grade mobile and backend systems** with ML features baked into the core. My focus is on pragmatic architecture, measurable outcomes, and production readiness: clean abstractions, observability, and automated delivery.
+
+* **Primary stacks:** React Native + TypeScript, Flutter (Dart), Rust (Actix/Axum), Python (FastAPI)
+* **Specialties:** Mobile architecture, Rust-based throughput services, ML model production, CI/CD & observability
 
 ---
 
-## Current Work
-- 🔭 **Qh** — Cross-platform app (React Native + Rust APIs + ML personalization).  
-- 👯 Open to collaborate on high-performance mobile systems, Rust backend tooling, and ML infra.  
-- 🤝 Seeking collaborators for productionizing ML pipelines and cross-platform performance engineering.
+## Current focus
+
+* 🔭 **Qh** — Cross-platform app (React Native client, Rust services, ML personalization).
+* 👯 Open to collaborate on high-performance mobile systems, Rust backend tooling, and ML infra.
+* 🤝 Seeking collaborators for productionizing ML pipelines and cross-platform performance engineering.
 
 ---
 
 ## Featured Projects
-> *(Replace placeholders with links & short outcomes — recruiters read metrics.)*
 
-1. **Qh — Cross-platform classifieds**  
-   - React Native (TypeScript) client, Rust backend services, FastAPI for model endpoints.  
-   - Key outcome: improved list-render throughput and reduced cold-start latency by X% (replace with metric).
+> Replace the placeholders with links and metrics. Recruiters skim — give them outcomes.
 
-2. **Realtime Messaging & Notification Service**  
-   - Event-driven architecture using Redis + message broker; critical-path services implemented in Rust for low latency.  
-   - Key outcome: sustained 2k RPS with P95 latency < 150ms under load test.
+**Qh — Cross-platform classifieds**
+React Native (TypeScript) client • Rust backend • FastAPI model endpoints
+*Impact:* reduced cold-start latency and improved feed relevance (insert metrics).
 
-3. **ML Recommendation Pipeline**  
-   - Data ingestion → feature store → model training (PyTorch) → FastAPI model server with autoscaling.  
-   - Key outcome: +Y% uplift in conversion for personalized feed (replace Y with your metric).
+**Realtime Messaging Service**
+Event-driven architecture with Rust for critical paths; Redis for pub/sub
+*Impact:* sustained 2k RPS in load tests; p95 latency < 150ms.
+
+**ML Recommendation Pipeline**
+Training pipelines (PyTorch) → model serving (FastAPI) → autoscaling endpoints
+*Impact:* +X% conversion for personalized recommendations (insert metric).
 
 ---
 
-## Architecture Snapshot
-A standard blueprint I use for mobile → cloud systems:
-[Mobile (RN/Flutter)] ↔ [API Gateway / BFF] ↔ [Domain Services (Rust/Python)]
-↘
-[Event Bus / Stream Processing]
-↘
-[Model Serving (FastAPI / gRPC)] → [Edge Inference]
+## Architecture (one-column snapshot)
 
-Principles:
-- **Single responsibility** per service; prefer small, well-instrumented components.  
-- **Type-safe contracts** (OpenAPI + shared TypeScript types) for cross-platform consistency.  
-- **Observability first**: structured logs, distributed traces, metrics, automated alerts.  
-- **Iterate architecture**: start modular monolith, split to microservices when necessary.
+```
+[Mobile (RN / Flutter)]
+        ↕
+    [BFF / API Gateway]
+        ↕
+[Domain Services (Rust / Python)]
+        ↕
+[Event Bus] → [Model Serving (FastAPI)] → [Edge Inference]
+```
+
+**Guiding principles:** single responsibility per service; type-safe contracts (OpenAPI + shared types); observability-first; iterate modular monolith → microservices when needed.
 
 ---
 
 ## Core Focus Areas
-- **Mobile architecture**: offline-first sync, list virtualization, fine-grained performance tracing.  
-- **Backend systems**: async Rust services for throughput-critical paths; Python for model orchestration.  
-- **ML production**: reproducible training pipelines, model versioning, low-latency endpoints.  
-- **Dev Experience**: developer tooling, contract testing, IaC, and CI/CD.
+
+* Mobile architecture: offline-first sync, list virtualization, performance tracing
+* Backend systems: async Rust for throughput-critical services; Python for ML orchestration
+* ML production: reproducible pipelines, model versioning, low-latency serving
+* Developer experience: contract testing, IaC, CI/CD, automated workflows
 
 ---
 
-## Tech & Tools (condensed)
-**Frontend / Mobile:** React Native, Flutter, TypeScript, Expo  
-**Backend:** Rust (Actix/Axum), Python (FastAPI, Flask), PostgreSQL, Redis  
-**ML / Data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
-**Infra / DevOps:** Docker, GitHub Actions, Terraform/AWS, Prometheus/Grafana, Sentry
+## Tech & Tools
 
----
+<div>
 
-## How I Work (process)
-1. **Problem framing** — stakeholder goals, success metrics, constraints.  
-2. **Design** — API contract, data model, cost/latency tradeoffs.  
-3. **Prototype** — thin vertical slice (client → API → DB or model).  
-4. **Productionize** — tests, CI/CD, observability, performance tuning.  
-5. **Iterate** — metrics-led improvements and cost/scale adjustments.
+**Frontend / Mobile**
 
----
-
-## Open Source & Community
-- Contributor to mobile tooling and Rust ecosystem projects. *(Link repos here when ready.)*  
-- I publish architecture notes and ML engineering write-ups on my blog.
-
----
-
-## Publications & Talks
-- Article: *Taking ML from Notebook to Production* — (link)  
-- Workshop: *Building High-Throughput Services with Rust* — (link / conference)  
-*(Add links or delete if not applicable.)*
-
----
-
-## Metrics & GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical" alt="Top languages" />
+<p>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
+**Backend**
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+**ML & Data**
+
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+**Infra & DevOps**
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+</div>
+
 ---
 
-## Contact & Availability
-- **Email:** eddiereoscar@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/barabu-oscar-edem  
-- **Twitter:** https://twitter.com/oscar_edem99095
+## How I work
 
-Open to: senior or staff engineer roles, technical cofounder opportunities, and targeted consulting (mobile + ML infra).
-
----
-
-## Quick Extras (copyable)
-**One-line tagline** (use on GitHub bio/Twitter):  
-> Full-stack & ML engineer building scalable mobile and backend systems with React Native, Flutter, Rust, and Python.
-
-**Resume bullet (impact-oriented):**  
-- Designed and delivered a cross-platform mobile system with Rust-backed services and ML personalization that improved active-user engagement by _X%_ and reduced API latency P95 by _Y%_. *(fill X/Y)*
+1. Problem framing — objectives, metrics, constraints
+2. Design — contract-first APIs, data model, cost vs. latency tradeoffs
+3. Prototype — thin vertical slice: client → API → DB/model
+4. Productionize — tests, CI/CD, observability, performance tuning
+5. Iterate — metrics-led improvements and pragmatic refactors
 
 ---
 
-### Final note
-This README balances recruiter readability with technical depth. Replace placeholders (project links, metrics, blog posts) with your real values and we’ll push it to a final polish — icons, color tweaks, or a simplified “one-page” resume form if you prefer.
+## Contact & Availability <a name="contact"></a>
 
-Would you like me to:
-- convert this into a one-column visual README with icons and subtle color accents?  
-- or generate a LinkedIn About version from the same content?
+* **Email:** [eddiereoscar@gmail.com](mailto:eddiereoscar@gmail.com)
+* **LinkedIn:** [https://linkedin.com/in/barabu-oscar-edem](https://linkedin.com/in/barabu-oscar-edem)
+* **Twitter:** [https://twitter.com/oscar_edem99095](https://twitter.com/oscar_edem99095)
 
-(If yes, I’ll output the chosen variant ready to paste.)
+Open to: senior/staff engineering roles, technical co-founder opportunities, and consulting on mobile + ML infra.
 
+---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&theme=radical" alt="GitHub stats" />
+</div>
 
+---
+
+> **One-line tagline:** Full-stack & ML engineer building scalable mobile and backend systems with React Native, Flutter, Rust, and Python.
+
+> **Resume bullet (copy-ready):** Designed and delivered a cross-platform mobile system with Rust-backed services and ML personalization that improved active-user engagement by *X%* and reduced API P95 latency by *Y%*.
