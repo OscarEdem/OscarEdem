@@ -139,15 +139,15 @@ Open to: Staff engineering roles, technical co-founder opportunities, and consul
 <div align="center">
 
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=oscaredem&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oscaredem&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
   <!-- GitHub Stats -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-xi-three-83.vercel.app/api?username=oscaredem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
   <!-- Most Used Languages -->
   <br/>
-  <img src="https://github-readme-stats-oscaredem.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-xi-three-83.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 
   <!-- Contribution Streak -->
   <br/>
