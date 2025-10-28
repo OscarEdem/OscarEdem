@@ -37,8 +37,6 @@ I design and ship **production-grade mobile and backend systems** with ML featur
 
 ## Featured Projects
 
-> Replace the placeholders with links and metrics. Recruiters skim — give them outcomes.
-
 **Qh — Cross-platform classifieds**
 React Native (TypeScript) client • Rust backend • FastAPI model endpoints
 *Impact:* reduced cold-start latency and improved feed relevance (insert metrics).
