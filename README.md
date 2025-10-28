@@ -10,7 +10,7 @@ I architect systems that balance clean code, maintainability, and performance.
 ---
 
 ### 💼 What I’m Working On  
-🔭 Building **[Project Name](#)** — a cross-platform app powered by React Native, TypeScript, and Rust-based APIs.  
+🔭 Building **[Qh](#)** — a cross-platform app powered by React Native, TypeScript, and Rust-based APIs.  
 👯 Open to collaborating on **open-source tools** around mobile development, backend performance, or ML-driven apps.  
 🤝 Looking for contributors interested in **Rust + Python ML pipelines**.  
 
@@ -47,9 +47,9 @@ I architect systems that balance clean code, maintainability, and performance.
 ---
 
 ### 👨‍💻 My Work  
-🌐 **Portfolio:** [YourPortfolioLinkHere](#)  
-📝 **Blog:** [YourBlogLinkHere](#)  
-📄 **Resume:** [YourResumeLinkHere](#)
+🌐 **Portfolio:** [PortfolioLinkHere](#)  
+📝 **Blog:** [BlogLinkHere](#)  
+📄 **Resume:** [ResumeLinkHere](#)
 
 ---
 
