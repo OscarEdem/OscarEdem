@@ -138,24 +138,21 @@ Open to: Staff engineering roles, technical co-founder opportunities, and consul
 
 <div align="center">
 
-  <!-- GitHub Trophies -->
+  ### 🏆 Achievements
   <img src="https://github-profile-trophy.vercel.app/?username=oscaredem&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 
-  <!-- GitHub Stats -->
-  <br/>
-  <img src="https://github-readme-stats-xi-three-83.vercel.app/api?username=oscaredem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  ### 📊 GitHub Analytics
+  <img src="https://github-readme-stats-git-master-oscar-edems-projects.vercel.app/api?username=oscaredem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-  <!-- Most Used Languages -->
-  <br/>
-  <img src="https://github-readme-stats-xi-three-83.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-oscar-edems-projects.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
 
-  <!-- Contribution Streak -->
-  <br/>
+  ### 🔥 Streak Stats
   <img src="https://streak-stats.demolab.com?user=oscaredem&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
+
 
 > **One-line tagline:** Full-stack & ML engineer building scalable mobile and backend systems with React Native, Flutter, Rust, and Python.
 
