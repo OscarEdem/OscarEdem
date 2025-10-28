@@ -132,12 +132,29 @@ Training pipelines (PyTorch) → model serving (FastAPI) → autoscaling endpoin
 * **LinkedIn:** [https://linkedin.com/in/barabu-oscar-edem](https://linkedin.com/in/barabu-oscar-edem)
 * **Twitter:** [https://twitter.com/oscar_edem99095](https://twitter.com/oscar_edem99095)
 
-Open to: senior/staff engineering roles, technical co-founder opportunities, and consulting on mobile + ML infra.
+Open to: Staff engineering roles, technical co-founder opportunities, and consulting on mobile + ML infra.
 
 ---
 
+## 📊 Stats & Highlights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&theme=radical" alt="GitHub stats" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=oscaredem&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+
+  <!-- GitHub Stats -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oscaredem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Most Used Languages -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaredem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+  <!-- Contribution Streak -->
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=oscaredem&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
